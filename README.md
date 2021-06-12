@@ -37,6 +37,6 @@ Used Jquery to select the current time, and the past present and future
 ![Screenshot (20)](https://user-images.githubusercontent.com/47751469/121788581-e9519100-cb93-11eb-911c-74f6f7c073e7.png)
 
 
-#### Website: https://darkholyphoenix.github.io/git-it-done/
+#### Website: https://github.com/darkholyphoenix/Work-Day-Scheduler
 
-#### Repository Location: https://github.com/darkholyphoenix/git-it-done
+#### Repository Location: https://github.com/darkholyphoenix/Work-Day-Scheduler
